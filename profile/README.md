@@ -9,7 +9,7 @@
 * Discord: https://discord.gg/yRptGftW
 * Docs:
   
-🍿 Fun facts - what does your team eat for breakfast?
+🍿 Fun facts
 
 ## Roles
 * Member - View Source Code, Work on *Public* repos (Hackathons, Projects Resources), Fork & Create Pull Requests
