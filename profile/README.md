@@ -1,11 +1,14 @@
 # Hello 👋 Welcome to the ACM RUC Github!
 
 🙋‍♀️ We are the Association of Computing Machinery
+
 🌈 Contribution guidelines
 * You can get involved by creating Pull Requests!
+  
 👩‍💻 Resources
 * Discord: https://discord.gg/yRptGftW
 * Docs:
+  
 🍿 Fun facts - what does your team eat for breakfast?
 
 ## Roles
