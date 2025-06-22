@@ -12,7 +12,7 @@
 🍿 Fun facts
 
 ## Roles
-* Member - View Source Code, Work on *Public* repos (Hackathons, Projects Resources), Fork & Create Pull Requests
+* Member - View Source Code, Work on *Public* repos (Hackathons, Projects, Research), Fork & Create Pull Requests
 * E-Board - Owner Access
 
 ## Teams
